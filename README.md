@@ -1,7 +1,5 @@
 ### Ahoiko ✨
 
-- 🔭 I’m currently working on "digdeep", just for practising Rust🦀
-
 - 🌱 I’m currently learning Rust🦀
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Rustatano)
@@ -10,6 +8,7 @@
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on "digdeep", just for practising Rust🦀
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
