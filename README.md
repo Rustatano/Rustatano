@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Rust🦀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustatano&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustatano&theme=midnight-purple&show_icons=true)
 <!--
 **Rustatano/Rustatano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
