@@ -1,8 +1,6 @@
 ### Ahoiko ✨
 
 - 🌱 I’m currently learning Rust🦀
-
-![Rustatano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustatano&theme=midnight-purple&show_icons=true)
 <!--
 **Rustatano/Rustatano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
