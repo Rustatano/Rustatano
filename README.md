@@ -1,6 +1,9 @@
 ### Ahoiko ✨
 
-- 🌱 I’m currently learning Rust🦀
+- 🌻 Languages I know: Rust, Flutter(Dart), Python, Java, Assembler, C++, C#, C, Brainfuck
+
+- 🔨 I am currently working on Flutter app (its private repo, because its still in developement)
+
 <!--
 **Rustatano/Rustatano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
