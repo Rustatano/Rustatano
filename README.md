@@ -1,8 +1,10 @@
 ### Ahoiko ✨
 
-- 🌻 Languages I know: Rust, Flutter(Dart), Python, Java, Assembler, C++, C#, C, Brainfuck
+- 🌻 Languages I know: Rust, Dart, Python, Java, Assembler, C#, Brainfuck, C++
 
-- 🔨 I am currently working on Flutter app (its private repo, because its still in developement)
+- 🔨 I am currently working on Android app for management of notes and notifications
+
+- 📫 How to reach me: rustatano@gmail.com
 
 <!--
 **Rustatano/Rustatano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +15,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
