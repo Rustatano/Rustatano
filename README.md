@@ -1,8 +1,8 @@
 ### Ahoiko ✨
 
-- 🌻 Languages I know: Rust, Dart, Python, Java, Assembler, C#, Brainfuck, C++
-
-- 🔨 I am currently working on Android app for management of notes and notifications
+- Languages I know:
+  - Intermediate: Rust, Dart, Python, Java
+  - Junior: C#, C++
 
 - 📫 How to reach me: rustatano@gmail.com
 
