@@ -6,6 +6,8 @@
 
 - 📫 How to reach me: rustatano@gmail.com
 
+- Fun fact: 'You can't proof anything real, everything happens in your head. Nothing is real, you can't prove it, deal with it. Have a nice day :)'
+
 <!--
 **Rustatano/Rustatano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
