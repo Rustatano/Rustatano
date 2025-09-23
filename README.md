@@ -2,7 +2,7 @@
 
 - Languages I know:
   - Intermediate: Rust, Dart, Python, Java
-  - Junior: C#, C++
+  - Junior: C#, C++, Assembly (NASM, 32 bit, x86_64 CPU)
 
 - 📫 How to reach me: rustatano@gmail.com
 
