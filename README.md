@@ -6,13 +6,14 @@
 
 ### How to reach me ✉️
 - Email: rustatano@gmail.com
+- 
+### Ask me about 💬
+- I'm a fan 🪭 of Rust lang, I'm not a profesional, but I enjoy creating stuff with it
 
 ### Fun fact 🤔
 > You can't proof anything real, everything happens in your head. Nothing is real, you can't prove it, deal with it. </br>
 > Have a nice day :)
 
-### Ask me about 💬
-- I'm a fan 🪭 of Rust lang, I'm not a profesional, but I enjoy creating stuff with it
 <!--
 **Rustatano/Rustatano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
