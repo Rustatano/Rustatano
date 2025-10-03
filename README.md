@@ -12,7 +12,7 @@
 > Have a nice day :)
 
 ### Ask me about 💬
-- I'm a fan 🪭 of Rust lang, I'm not a profesional, but I enjoy creating stuff in it
+- I'm a fan 🪭 of Rust lang, I'm not a profesional, but I enjoy creating stuff with it
 <!--
 **Rustatano/Rustatano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
