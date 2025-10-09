@@ -6,7 +6,7 @@
 
 ### How to reach me ✉️
 - Email: rustatano@gmail.com
-- 
+  
 ### Ask me about 💬
 - I'm a fan 🪭 of Rust lang, I'm not a profesional, but I enjoy creating stuff with it
 
