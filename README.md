@@ -14,6 +14,10 @@
 > You can't proof anything real, everything happens in your head. Nothing is real, you can't prove it, deal with it. </br>
 > Have a nice day :)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustatano&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustatano&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Rustatano/Rustatano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
