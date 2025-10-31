@@ -1,8 +1,8 @@
 ## Ahoiko ✨
 
 ### Languages I know 💭
-- Intermediate: Rust, Dart, Python, Java
-- Junior: C, C++, C#, Assembly (NASM, 32 bit, x86_64 CPU)
+- Intermediate: Rust, Dart, Python, Java, C, Assembly (NASM, 32 bit, x86_64 CPU)
+- Junior: C++, C#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustatano&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
