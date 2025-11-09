@@ -1,4 +1,5 @@
 ## Ahoiko ✨
+[![wakatime](https://wakatime.com/badge/user/453fc37c-70d2-4540-b69e-0fb28d5f2f17.svg)](https://wakatime.com/@453fc37c-70d2-4540-b69e-0fb28d5f2f17)
 
 ### Languages I know 💭
 - Intermediate: Rust, Dart, Python, Java, C, Assembly (NASM, 32 bit, x86_64 CPU)
