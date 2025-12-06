@@ -6,15 +6,11 @@
 - Intermediate: Dart, Python, Java, C, Assembly (NASM, x86_64 CPU)
 - Junior: C++, C#
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustatano&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### How to reach me ✉️
 - Email: rustatano@gmail.com
   
 ### Ask me about 💬
 - I'm a fan 🪭 of Rust lang, I'm not a profesional, but I enjoy creating stuff with it
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustatano&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Fun fact 🤔
 > You can't prove anything real, everything happens inside your head. Nothing is real, you can't prove it, deal with it. </br>
