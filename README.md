@@ -2,8 +2,8 @@
 [![wakatime](https://wakatime.com/badge/user/453fc37c-70d2-4540-b69e-0fb28d5f2f17.svg)](https://wakatime.com/@453fc37c-70d2-4540-b69e-0fb28d5f2f17)
 
 ### Languages I know 💭
-- Proficient: Rust
-- Intermediate: Dart, Python, Java, C, Assembly (NASM, x86_64 CPU)
+- Proficient: Rust, C
+- Intermediate: Dart, Python, Java, Assembly (NASM, x86_64 CPU)
 - Junior: C++, C#
 
 ### How to reach me ✉️
