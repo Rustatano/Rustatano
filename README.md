@@ -3,8 +3,8 @@
 
 ### Languages I know 💭
 - Proficient: Rust, C
-- Intermediate: Dart, Python, Java, Assembly (NASM, x86_64 CPU)
-- Junior: C++, C#
+- Intermediate: Dart, Python, Java, Assembly (NASM, x86_64 CPU), C++
+- Junior: C#
 
 ### How to reach me ✉️
 - Email: rustatano@gmail.com
