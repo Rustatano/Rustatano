@@ -4,7 +4,7 @@
 ### Languages I know 💭
 - Proficient: Rust, C
 - Intermediate: Dart, Python, Java, Assembly (NASM, x86_64 CPU), C++
-- Junior: C#
+- Junior: C#, HTML(+CSS+JS)
 
 ### How to reach me ✉️
 - Email: rustatano@gmail.com
