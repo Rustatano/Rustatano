@@ -3,7 +3,7 @@
 
 ### Languages I know 💭
 - Proficient: Rust, C
-- Intermediate: Dart, Python, Java, Assembly (NASM, x86_64 CPU), C++
+- Intermediate: Dart, Python, Java, Assembly (NASM, x86, 64 and 32 bit), C++
 - Junior: C#, HTML(+CSS+JS)
 
 ### How to reach me ✉️
