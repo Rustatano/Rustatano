@@ -7,7 +7,7 @@
 - Intermediate: Dart, Python, Java, Assembly (NASM, x86, 64 and 32 bit), C++, Arduino
 - Junior: C#, HTML(+CSS+JS)
 ### Hardware
-- ESP32 (servo, motor, sensor, Wi-Fi, Bluetooth)
+- ESP32 (servo, DC motor, sensor, Wi-Fi, Bluetooth)
 - soldering
 
 ## Experiences
