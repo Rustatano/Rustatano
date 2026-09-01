@@ -11,7 +11,7 @@
 - soldering
 
 ## Experiences
-- I'm usually working on some hardware project ranging from disassembling/repairing random electronics to putting together vehicle models like a car or a boat
+- I'm usually working on some hardware project ranging from disassembling/repairing random electronics to putting together vehicle models like RC car/boat
 
 ## How to reach me
 - Email: rustatano@gmail.com
