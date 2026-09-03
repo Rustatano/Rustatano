@@ -4,7 +4,7 @@
 ## Technical stuff I know
 ### Programming Languages
 - Proficient: Rust, C
-- Intermediate: Dart, Python, Java, Assembly (NASM, x86, 64 and 32 bit), C++, Arduino
+- Intermediate: Dart, Python, Java, Assembly (NASM), C++, Arduino
 - Junior: C#, HTML(+CSS+JS)
 ### Hardware
 - ESP32 (servo, DC motor, sensor, Wi-Fi, Bluetooth)
