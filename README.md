@@ -9,6 +9,7 @@
 ### Hardware
 - ESP32 (servo, DC motor, sensor, Wi-Fi, Bluetooth)
 - soldering
+- 3D printing and 3D CAD parametric design
 
 ## Experiences
 - I'm usually working on some hardware project ranging from disassembling/repairing random electronics to putting together vehicle models like RC car/boat
